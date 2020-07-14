@@ -25,7 +25,7 @@ import com.checkoutcounter.controller.request.CategoryConfigureRequest;
 import com.checkoutcounter.controller.request.ProductConfigureRequest;
 import com.checkoutcounter.controller.request.PurchaseRequest;
 
-
+//test
 public class TestAPI {
 	
 	@Autowired
